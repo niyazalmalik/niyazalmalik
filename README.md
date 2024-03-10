@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @niyazalmalik
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning DSA using c++ and intrested in full stack dev.
-- 💞️ I’m looking for a friend to solve problems together.
-- 📫 @niyazalmalik is my username on twitter, github
-- 😄 Pronouns: he/him
-- ⚡ I have never made any friends and currently i am in 3rd year and i have successfully wasted all those years untill now and now i wanna do somthing before it's too late...
+Hello... I am Niyaz Malik...a 21 year old guy who is pursuing BTech from BS ANANGPURIA college, Faridabad. Right now I am in 2nd year and about to enter 3rd year in 3 months and I haven't worked on my skills yet. I was never consistent although I hold potential to acheive alot. I was a game adddict since class 11th up untill now and finally ALHAMDULILLAH now at the very crucial time I woke up or should i say THE ALMIGHTY guided me... I have 1.5 years of my college life left (excluding 0.5 year coz last sem is internship time) to acheive all the necessary skills. May THE ALMIGHTY guide me cozif now i don't take things seriously then life is not going to show mercy at all...
+<br><br>
+Started learning DSA using c++ to enhance problem solving skills and MACHINE LEARNING as my main career goal.
