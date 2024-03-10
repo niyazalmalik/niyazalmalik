@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @niyazalmalik
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning DSA using c++ and intrested in full stack dev.
+- 💞️ I’m looking for a friend to solve problems together.
+- 📫 @niyazalmalik is my username on twitter, github
+- 😄 Pronouns: he/him
+- ⚡ I have never made any friends and currently i am in 3rd year and i have successfully wasted all those years untill now and now i wanna do somthing before it's too late...
